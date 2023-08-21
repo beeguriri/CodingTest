@@ -1,38 +1,39 @@
 package com.study.codingtest.programmers.level3;
 
-import java.util.Arrays;
-import java.util.PriorityQueue;
-import java.util.Queue;
-
 public class P_10 {
-    /*
-        단속 카메라
-        routes[i][0]에는 i번째 차량이 진입한 지점, routes[i][1]에는 나간 지점
-     */
 
-    public static int solution(int[][] routes) {
+    public static int countInst(int begin, int end, int w){
 
-        //회의실 문제
-        //종료 시간 기준으로 정렬
-        //target은 종료시간
-        //시작 시간이 종료시간보다 빠르면 카메라 설치해야됨
-        //겹쳐도 된다고 했으므로 부등호 잘 처리해주기
-        Arrays.sort(routes, (o1, o2) -> o1[1]==o2[1] ? o1[0]-o2[0] : o1[1]-o2[1]);
-        int last = routes[0][1];
-        int count = 1;
+        int count = (end-begin+1)/(2*w+1);
 
-        for(int [] route : routes) {
-
-            if(route[0]>last) {
-                count++;
-                last = route[1];
-            }
-        }
+        if((end-begin+1)%(2*w+1)!=0)
+            count++;
 
         return count;
     }
 
+    public static int solution(int n, int[] stations, int w) {
+
+        int answer = 0;
+        int begin = 1;
+
+        for(int i=0; i<stations.length; i++){
+            //설치된 기지국 영향 받지 않는 인덱스까지
+            //몇개 설치 되어야 하는지 계산 하는 메서드 만들어야 됨
+            if(begin < stations[i]-w)
+                answer+=countInst(begin, stations[i]-w-1, w);
+
+            begin = stations[i]+w +1;
+        }
+
+        //마지막 기지국에서부터 뒤에 남은거 처리해주기
+        if(begin<=n)
+            answer += countInst(begin, n, w);
+
+        return answer;
+    }
+
     public static void main(String[] args) {
-        System.out.println(solution(new int [][] {{-20,-15}, {-14,-5}, {-18,-13}, {-5,-3}})); //2
+        System.out.println(solution(11, new int [] {4, 11}, 1)); // 3
     }
 }

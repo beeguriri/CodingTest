@@ -1,7 +1,5 @@
 package com.study.codingtest.programmers.level3;
 
-import java.util.Arrays;
-
 public class P_07 {
 
     /*
