@@ -1,41 +1,36 @@
 package com.study.codingtest.programmers.level3;
 
-import java.util.*;
+import java.util.Arrays;
 
 public class P_09 {
     /*
-        숫자 게임
-        B 팀원들이 얻을 수 있는 최대 승점을 return 하도록
+        단속 카메라
+        routes[i][0]에는 i번째 차량이 진입한 지점, routes[i][1]에는 나간 지점
      */
 
-    public static int solution(int[] A, int[] B) {
+    public static int solution(int[][] routes) {
 
-        int answer = 0;
-        Deque<Integer> dq = new LinkedList<>();
+        //회의실 문제
+        //종료 시간 기준으로 정렬
+        //target은 종료시간
+        //시작 시간이 종료시간보다 빠르면 카메라 설치해야됨
+        //겹쳐도 된다고 했으므로 부등호 잘 처리해주기
+        Arrays.sort(routes, (o1, o2) -> o1[1]==o2[1] ? o1[0]-o2[0] : o1[1]-o2[1]);
+        int last = routes[0][1];
+        int count = 1;
 
-        Arrays.sort(A);
-        Arrays.sort(B);
+        for(int [] route : routes) {
 
-        for(int i : B)
-            dq.offer(i);
-
-        //A의 최대값과 B의 최대값을 비교해서
-        //A의 최대값보다 최소로 큰값
-        //같거나 작으면, 최대로 작은값을 카드로 내면 됨
-        for(int i=A.length-1; i>=0; i--) {
-            if(A[i]<dq.peekLast()) {
-                dq.pollLast();
-                answer++;
+            if(route[0]>last) {
+                count++;
+                last = route[1];
             }
-            else
-                dq.pollFirst();
-
         }
 
-        return answer;
+        return count;
     }
-    
+
     public static void main(String[] args) {
-        System.out.println(solution(new int [] {5,1,3,7}, new int [] {2,2,6,8}));
+        System.out.println(solution(new int [][] {{-20,-15}, {-14,-5}, {-18,-13}, {-5,-3}})); //2
     }
 }
