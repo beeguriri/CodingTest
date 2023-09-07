@@ -1,60 +1,59 @@
 package com.study.codingtest.programmers.level1;
 
-//스택으로 풀기
-
-import java.util.Stack;
+import java.util.Arrays;
+import java.util.PriorityQueue;
 
 public class P_03 {
+    public static int[] solution(int N, int[] stages) {
 
-    static int calcNum(char c, int num) {
+        int[] answer = new int [N];
 
-        if(c=='S')
-            return num;
-        else if(c=='D')
-            return num*num;
-        else
-            return num*num*num;
+        double [][] result = new double [N][2];
+        for(int i=0; i<N; i++)
+            result[i][0] = i+1;
 
-    }
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
 
-    public int solution(String dartResult) {
-        int answer = 0;
-        Stack<Integer> stack = new Stack<>();
+        for(int s : stages)
+            pq.offer(s);
 
-        //연산결과를 스택에 넣고 빼서 마지막에 일괄 계산 하자!
-        int lastIdx = 0;
-        for(int i=0; i<dartResult.length(); i++) {
+        while(!pq.isEmpty()) {
 
-            char c = dartResult.charAt(i);
-            if((c=='S' || c=='D' || c=='T')) {
-                int x = Integer.parseInt(dartResult.substring(lastIdx, i));
-                lastIdx = i+1;
+            int size = pq.size();
+            int now = pq.poll();
+            int count = 1;
 
-                stack.push(calcNum(c, x));
+            if(now==N+1)
+                break;
 
-            }  else if ((c=='*' || c=='#')) {
-                if(c=='*') {
-                    if(!stack.isEmpty()) {
-                        if(stack.size()==1)
-                            stack.push(stack.pop()*2);
-                        else if(stack.size() >=2) {
-                            int a = stack.pop()*2;
-                            int b = stack.pop()*2;
-                            stack.push(b);
-                            stack.push(a);
-                        }
-                    }
-                } else {
-                    if(!stack.isEmpty())
-                        stack.push(stack.pop()*-1);
-                }
-                lastIdx = i+1;
+            while(!pq.isEmpty() && pq.peek()==now){
+                pq.poll();
+                count++;
             }
+
+            System.out.println(count);
+            result[now-1][1] = (double)count/size;
+
         }
 
-        while(!stack.isEmpty())
-            answer += stack.pop();
+        Arrays.sort(result, (o1, o2) ->
+                o1[1] > o2[1] ? -1 :
+                        o1[1] < o2[1] ? 1 :
+                                o1[0] < o2[0] ? -1 : 1);
+
+        for(int i=0; i<N; i++)
+            answer[i] = (int) result[i][0];
 
         return answer;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(Arrays.toString(solution(4, new int [] {4, 4, 4, 4, 4})));
+        System.out.println(Arrays.toString(solution(5, new int [] {3, 2, 1, 1})));
+        System.out.println(Arrays.toString(solution(10, new int [] {10, 2})));
+        System.out.println(Arrays.toString(solution(5, new int [] {2, 4})));
+        System.out.println(Arrays.toString(solution(5, new int [] {3, 3, 3, 3, 3})));
+
+
     }
 }
