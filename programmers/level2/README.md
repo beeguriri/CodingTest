@@ -29,11 +29,17 @@
 | ✅ | P_25 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | 구현                 | 소수판별, 진법변환               |
 | ⏸ | P_26 | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)              | 구현, 문자열            |                          |
 | ✅ | P_27 | [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)          | 구현, 문자열            | 스트링, 스트링빌더 속도 차이 약 1/100 |
-| ✅ | P_28 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)        | 구현, 맵              | |
-| ✅ | P_29 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)            | 우선순위큐              | |
-| ✅ | P_30 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)        | bfs                | |
-| ✅ | P_31 | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)           | dfs, 중복순열          | |
-| ✅ | P_32 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)            | dp         | |
+| ✅ | P_28 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)        | 구현, 맵              |                          |
+| ✅ | P_29 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)            | 우선순위큐              |                          |
+| ✅ | P_30 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)        | bfs                |                          |
+| ✅ | P_31 | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)           | dfs, 중복순열          |                          |
+| ✅ | P_32 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)            | dp                 |                          |
+| ✅ | P_33 | [방문길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)            | 구현, 그래프            | boolean [][][] check     |
+| ✅ | P_34 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)           | 구현, 맵              |                          |
+| ⏸ | P_35 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   | 스택                 |                          |
+| ✅ | P_36 | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)           | 스택                 | P_35와 같은 유형              |
+| ✅ | P_37 | [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)           | 문자열                |  |
+
 
 
 
