@@ -38,7 +38,10 @@
 | ✅ | P_34 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)           | 구현, 맵              |                          |
 | ⏸ | P_35 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   | 스택                 |                          |
 | ✅ | P_36 | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)           | 스택                 | P_35와 같은 유형              |
-| ✅ | P_37 | [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)           | 문자열                |  |
+| ✅ | P_37 | [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)           | 문자열                |                          |
+| ✅ | P_38 | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)          | 문자열, 정렬            |                          |
+| ✅ | P_39 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)       | Map, Set           |                          |
+| ✅ | P_40 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)        | bfs로 풀기            | [dp로도 풀 수 있음](Java_Programmers/Level2/숫자변환하기.java)          |
 
 
 
