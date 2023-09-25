@@ -42,11 +42,13 @@
 | ✅ | P_38 | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)          | 문자열, 정렬            |                          |
 | ✅ | P_39 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)       | Map, Set           |                          |
 | ✅ | P_40 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)        | bfs로 풀기            | [dp로도 풀 수 있음](Java_Programmers/Level2/숫자변환하기.java)    |
-| ✅ | P_41 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)    | 구현   |                          |
-| ⏸ | P_42 | [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)          | 스택, 큐     |                          |
-| ⏸ | P_43 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)      | 구현 - 큐   |  |
-| ✅ | P_44 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)          | 정렬    | `(o1, o2) -> (o2+o1).compareTo(o1+o2)` |
+| ✅ | P_41 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)    | 구현                 |                          |
+| ⏸ | P_42 | [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)          | 스택, 큐              |                          |
+| ⏸ | P_43 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)      | 구현 - 큐             |  |
+| ✅ | P_44 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)          | 정렬                 | `(o1, o2) -> (o2+o1).compareTo(o1+o2)` |
 | ✅ | P_45 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)           | 중복없는 순열            |  |
+| ✅ | P_46 | [쿼드 압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)   | 재귀                 |  |
+| ⏸ | P_47 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)          | 구현                  |  |
 
 
 
