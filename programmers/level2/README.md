@@ -41,7 +41,7 @@
 | ✅ | P_37 | [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)   | 문자열        |                          |
 | ✅ | P_38 | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)  | 문자열, 정렬    |                          |
 | ✅ | P_39 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | Map, Set   |                          |
-| ✅ | P_40 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | bfs로 풀기    | [dp로도 풀 수 있음](Java_Programmers/Level2/숫자변환하기.java)    |
+| ✅ | P_40 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | bfs로 풀기    | [dp로도 풀 수 있음](https://github.com/beeguriri/Selfstudy_Java/blob/main/Java_Programmers/Level2/%EC%88%AB%EC%9E%90%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.java)    |
 | ✅ | P_41 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | 구현         |                          |
 | ⏸ | P_42 | [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)  | 스택, 큐      |                          |
 | ⏸ | P_43 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 구현 - 큐     |  |
