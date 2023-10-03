@@ -76,7 +76,10 @@
 | ⏸  | P_72 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          | 문자열                |                                                                                                                                                                         |
 | ✅  | P_73 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)         | bfs                |                                                                                                                                                                         |
 | ✅  | P_74 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)         | 우선순위 큐             |                                                                                                                                                                         |
-| ✅  | P_75 | [혼자놀기 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)      | 재귀                 |                                                                                                                                                                         |
+| ✅  | P_75 | [혼자놀기 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)        | 재귀                 |                                                                                                                                                                         |
+| ✅  | P_76 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)          | 재귀                 |                                                                                                                                                                         |
+| ✅  | P_77 | [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)       | 수학                 |                                                                                                                                                                         |
+| ✅  | P_78 | [회의실 배정](https://school.programmers.co.kr/learn/courses/30/lessons/181188)         | 그리디              |                                                                                                                                                                         |
 
 
 
