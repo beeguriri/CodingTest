@@ -19,14 +19,14 @@
 - ✅ lv1. 신규 아이디 추천 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [코드](./ch4/_72410.java) |
 
 ### 5장. 재귀
-- lv2. 쿼드압축 후 개수 세기 | [문제]() | [코드]() |
-- lv3. 하노이의 탑 | [문제]() | [코드]() |
-- lv2. 모음 사전 | [문제]() | [코드]() |
+- ✅ lv2. 쿼드압축 후 개수 세기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | [코드](./ch5/_68936.java) |
+- ✅ lv3. 하노이의 탑 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [코드](./ch5/_12946.java) |
+- ✅ lv2. 모음 사전 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [코드](./ch5/_84512.java) |
 
 ### 6장. 완전 탐색
-- [ ] lv1. 모의고사 | [문제]() | [코드]() |
-- [ ] lv2. 카펫 | [문제]() | [코드]() |
-- [ ] lv2. 수식 최대화 | [문제]() | [코드]() |
+- ✅ lv1. 모의고사 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [코드](./ch6/_42840.java) |
+- ✅ lv2. 카펫 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [코드](./ch6/_42842.java) |
+- ✅ lv2. 수식 최대화 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | [코드](./ch6/_67257.java) |
 - [ ] lv2. 소수 찾기 | [문제]() | [코드]() |
 - [ ] lv3. 불량 사용자 | [문제]() | [코드]() |
 
