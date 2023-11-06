@@ -31,13 +31,13 @@
 - ✅ lv3. 불량 사용자 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | [코드](./ch6/_64064.java) |
 
 ### 7장. 정렬
-- [ ] lv1. K번째 수 | [문제]() | [코드]() |
-- [ ] lv1. 두 개 뽑아서 더하기 | [문제]() | [코드]() |
-- [ ] lv2. H-index | [문제]() | [코드]() |
-- [ ] lv1. 문자열 내림차순으로 배치하기 | [문제]() | [코드]() |
-- [ ] lv1. 문자열 내 마음대로 정렬하기 - Level 1 | [문제]() | [코드]() |
-- [ ] lv2. 가장 큰 수 - Level 2 | [문제]() | [코드]() |
-- [ ] lv2. 메뉴 리뉴얼 - Level 2 | [문제]() | [코드]() |
+- ✅ lv1. K번째 수 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [코드](./ch7/_42748.java) |
+- ✅ lv1. 두 개 뽑아서 더하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [코드](./ch7/_68644.java) |
+- ✅ lv2. H-index | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [코드](./ch7/_42747.java) |
+- ✅ lv1. 문자열 내림차순으로 배치하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [코드](./ch7/_12917.java) |
+- ✅ lv1. 문자열 내 마음대로 정렬하기 - Level 1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [코드](./ch7/_12915.java) |
+- ✅ lv2. 가장 큰 수 - Level 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [코드](./ch7/_42746.java) |
+- ✅ lv2. 메뉴 리뉴얼 - Level 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [코드](./ch7/_72411.java) |
 
 ### 8장. 이진 탐색
 - [ ] lv2. 순위 검색 | [문제]() | [코드]() |
