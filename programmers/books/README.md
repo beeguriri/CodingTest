@@ -27,8 +27,8 @@
 - ✅ lv1. 모의고사 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [코드](./ch6/_42840.java) |
 - ✅ lv2. 카펫 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [코드](./ch6/_42842.java) |
 - ✅ lv2. 수식 최대화 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | [코드](./ch6/_67257.java) |
-- [ ] lv2. 소수 찾기 | [문제]() | [코드]() |
-- [ ] lv3. 불량 사용자 | [문제]() | [코드]() |
+- ✅ lv2. 소수 찾기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [코드](./ch6/_42839.java) |
+- ✅ lv3. 불량 사용자 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | [코드](./ch6/_64064.java) |
 
 ### 7장. 정렬
 - [ ] lv1. K번째 수 | [문제]() | [코드]() |
