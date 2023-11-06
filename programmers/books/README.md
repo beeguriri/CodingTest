@@ -41,7 +41,7 @@
 - ✅ lv2. 메뉴 리뉴얼 - Level 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [코드](./ch7/_72411.java) |
 
 ### 8장. 이진 탐색
-- [ ] lv2. 순위 검색 | [문제]() | [코드]() |
+- ⭐ lv2. 순위 검색 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [코드](./ch8/_72412.java) |
 - [ ] lv3. 입국심사 | [문제]() | [코드]() |
 - [ ] lv4. 징검다리 | [문제]() | [코드]() |
 
