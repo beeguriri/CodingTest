@@ -1,4 +1,5 @@
 ## 프로그래머스 코딩테스트 문제풀이 전략: 자바편
+- 길벗출판사 / [깃허브](https://github.com/gilbutITbook/080337)  
 
 ### 3장. 배열
 - ✅ lv2. 교점에 별 만들기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [코드](./ch3/_87377.java) |
@@ -27,17 +28,17 @@
 - ✅ lv1. 모의고사 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [코드](./ch6/_42840.java) |
 - ✅ lv2. 카펫 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [코드](./ch6/_42842.java) |
 - ✅ lv2. 수식 최대화 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | [코드](./ch6/_67257.java) |
-- [ ] lv2. 소수 찾기 | [문제]() | [코드]() |
-- [ ] lv3. 불량 사용자 | [문제]() | [코드]() |
+- ✅ lv2. 소수 찾기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [코드](./ch6/_42839.java) |
+- ✅ lv3. 불량 사용자 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | [코드](./ch6/_64064.java) |
 
 ### 7장. 정렬
-- [ ] lv1. K번째 수 | [문제]() | [코드]() |
-- [ ] lv1. 두 개 뽑아서 더하기 | [문제]() | [코드]() |
-- [ ] lv2. H-index | [문제]() | [코드]() |
-- [ ] lv1. 문자열 내림차순으로 배치하기 | [문제]() | [코드]() |
-- [ ] lv1. 문자열 내 마음대로 정렬하기 - Level 1 | [문제]() | [코드]() |
-- [ ] lv2. 가장 큰 수 - Level 2 | [문제]() | [코드]() |
-- [ ] lv2. 메뉴 리뉴얼 - Level 2 | [문제]() | [코드]() |
+- ✅ lv1. K번째 수 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [코드](./ch7/_42748.java) |
+- ✅ lv1. 두 개 뽑아서 더하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [코드](./ch7/_68644.java) |
+- ✅ lv2. H-index | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [코드](./ch7/_42747.java) |
+- ✅ lv1. 문자열 내림차순으로 배치하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [코드](./ch7/_12917.java) |
+- ✅ lv1. 문자열 내 마음대로 정렬하기 - Level 1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [코드](./ch7/_12915.java) |
+- ✅ lv2. 가장 큰 수 - Level 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [코드](./ch7/_42746.java) |
+- ✅ lv2. 메뉴 리뉴얼 - Level 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [코드](./ch7/_72411.java) |
 
 ### 8장. 이진 탐색
 - [ ] lv2. 순위 검색 | [문제]() | [코드]() |
