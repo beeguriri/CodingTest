@@ -1,4 +1,5 @@
 ## 프로그래머스 코딩테스트 문제풀이 전략: 자바편
+- 길벗출판사 / [깃허브](https://github.com/gilbutITbook/080337)  
 
 ### 3장. 배열
 - ✅ lv2. 교점에 별 만들기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [코드](./ch3/_87377.java) |
