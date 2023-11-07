@@ -43,8 +43,8 @@
 
 ### 8장. 이진 탐색
 - ⭐ lv2. 순위 검색 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [코드](./ch8/_72412.java) |
-- [ ] lv3. 입국심사 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | [코드]() |
-- [ ] lv4. 징검다리 | [문제]() | [코드]() |
+- ⭐ lv3. 입국심사 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | [코드](./ch8/_43238.java) |
+- ⭐ lv4. 징검다리 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | [코드](./ch8/_43236.java) |
 
 ### 9장. 해시
 - ✅ lv0. 평행 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [코드](./ch9/_120875.java) |
