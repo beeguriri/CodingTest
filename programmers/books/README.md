@@ -1,5 +1,6 @@
 ## 프로그래머스 코딩테스트 문제풀이 전략: 자바편
 - 길벗출판사 / [깃허브](https://github.com/gilbutITbook/080337)  
+- 필요한 문제 추가로 풀기
 
 ### 3장. 배열
 - ✅ lv2. 교점에 별 만들기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [코드](./ch3/_87377.java) |
@@ -46,12 +47,14 @@
 - [ ] lv4. 징검다리 | [문제]() | [코드]() |
 
 ### 9장. 해시
-- [ ] lv0. 평행 | [문제]() | [코드]() |
-- [ ] lv2. 전화번호 목록 | [문제]() | [코드]() |
-- [ ] lv0. 중복된 문자 제거 | [문제]() | [코드]() |
-- [ ] lv0. A로 B 만들기 | [문제]() | [코드]() |
-- [ ] lv1. 없는 숫자 더하기 - Level 1 | [문제]() | [코드]() |
-- [ ] lv1. 완주하지 못한 선수 - Level 1 | [문제]() | [코드]() |
+- ✅ lv0. 평행 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [코드](./ch9/_120875.java) |
+- ✅ lv2. 전화번호 목록 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [코드]() |
+- ✅ lv0. 중복된 문자 제거 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [코드](./ch9/_120888.java) |
+- ✅ lv0. A로 B 만들기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [코드](./ch9/_120886.java) |
+- ✅ lv1. 없는 숫자 더하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [코드](./ch9/_86051.java) |
+- ✅ lv1. 완주하지 못한 선수 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [코드](./ch9/_42576.java) |
+- [ ] lv2. 의상 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [코드]() |
+- [ ] lv3. 베스트앨범| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [코드]() |
 
 ### 10장. 동적 프로그래밍
 - [ ] lv2. 피보나치 수 | [문제]() | [코드]() |
