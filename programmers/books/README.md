@@ -1,5 +1,6 @@
 ## 프로그래머스 코딩테스트 문제풀이 전략: 자바편
 - 길벗출판사 / [깃허브](https://github.com/gilbutITbook/080337)  
+- 필요한 문제 추가로 풀기
 
 ### 3장. 배열
 - ✅ lv2. 교점에 별 만들기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [코드](./ch3/_87377.java) |
@@ -42,26 +43,30 @@
 
 ### 8장. 이진 탐색
 - ⭐ lv2. 순위 검색 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [코드](./ch8/_72412.java) |
-- [ ] lv3. 입국심사 | [문제]() | [코드]() |
-- [ ] lv4. 징검다리 | [문제]() | [코드]() |
+- ⭐ lv3. 입국심사 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | [코드](./ch8/_43238.java) |
+- ⭐ lv4. 징검다리 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | [코드](./ch8/_43236.java) |
 
 ### 9장. 해시
-- [ ] lv0. 평행 | [문제]() | [코드]() |
-- [ ] lv2. 전화번호 목록 | [문제]() | [코드]() |
-- [ ] lv0. 중복된 문자 제거 | [문제]() | [코드]() |
-- [ ] lv0. A로 B 만들기 | [문제]() | [코드]() |
-- [ ] lv1. 없는 숫자 더하기 - Level 1 | [문제]() | [코드]() |
-- [ ] lv1. 완주하지 못한 선수 - Level 1 | [문제]() | [코드]() |
+- ✅ lv0. 평행 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [코드](./ch9/_120875.java) |
+- ✅ lv2. 전화번호 목록 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [코드]() |
+- ✅ lv0. 중복된 문자 제거 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [코드](./ch9/_120888.java) |
+- ✅ lv0. A로 B 만들기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [코드](./ch9/_120886.java) |
+- ✅ lv1. 없는 숫자 더하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [코드](./ch9/_86051.java) |
+- ✅ lv1. 완주하지 못한 선수 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [코드](./ch9/_42576.java) |
+- 🟪 lv2. 의상 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [코드](./ch9/_42578.java) |
+- 🟪 lv3. 베스트앨범| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [코드](./ch9/_42579.java) |
 
 ### 10장. 동적 프로그래밍
-- [ ] lv2. 피보나치 수 | [문제]() | [코드]() |
-- [ ] lv3. 정수 삼각형 | [문제]() | [코드]() |
-- [ ] lv3. 등굣길 | [문제]() | [코드]() |
-- [ ] lv4. 사칙연산 | [문제]() | [코드]() |
+- ✅ lv2. 피보나치 수 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [코드](./ch10/_12945.java) |
+- ✅ lv3. 정수 삼각형 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | [코드](./ch10/_43105.java) |
+- ✅ lv3. 등굣길 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [코드](./ch10/_42898.java) |
+- ❌ lv4. 사칙연산 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1843) | [코드]() |
+- 🟪 백준에 계단 문제들 몇개 풀어보기
 
 ### 11장. 자주 등장하는 자료 구조
 - [ ] lv2. 올바른 괄호 | [문제]() | [코드]() |
 - [ ] lv2. 괄호 회전하기 | [문제]() | [코드]() |
+- 🟪 lv2. 뒤에 있는 큰 수 찾기 | [문제](- https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [코드]() |
 - [ ] lv2. 주식 가격 | [문제]() | [코드]() |
 - [ ] lv2. 기능 개발 | [문제]() | [코드]() |
 - [ ] lv2. 다리를 지나는 트럭 | [문제]() | [코드]() |
