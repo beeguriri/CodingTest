@@ -43,7 +43,7 @@
 
 ### 8장. 이진 탐색
 - ⭐ lv2. 순위 검색 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [코드](./ch8/_72412.java) |
-- [ ] lv3. 입국심사 | [문제]() | [코드]() |
+- [ ] lv3. 입국심사 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | [코드]() |
 - [ ] lv4. 징검다리 | [문제]() | [코드]() |
 
 ### 9장. 해시
@@ -53,8 +53,8 @@
 - ✅ lv0. A로 B 만들기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [코드](./ch9/_120886.java) |
 - ✅ lv1. 없는 숫자 더하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [코드](./ch9/_86051.java) |
 - ✅ lv1. 완주하지 못한 선수 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [코드](./ch9/_42576.java) |
-- [ ] lv2. 의상 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [코드]() |
-- [ ] lv3. 베스트앨범| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [코드]() |
+- 🟪 lv2. 의상 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [코드](./ch9/_42578.java) |
+- 🟪 lv3. 베스트앨범| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [코드](./ch9/_42579.java) |
 
 ### 10장. 동적 프로그래밍
 - [ ] lv2. 피보나치 수 | [문제]() | [코드]() |
