@@ -66,19 +66,20 @@
 ### 11장. 자주 등장하는 자료 구조
 - ✅ lv2. `stack` 올바른 괄호 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [코드](./ch11/_12909.java) |
 - ✅ lv2. `stack` 괄호 회전하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [코드](./ch11/_76502.java) |
-- 🟪 lv2. `stack` 뒤에 있는 큰 수 찾기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [코드](./ch11/_154539.java) |
-- [ ] lv2. `stack` 주식 가격 | [문제]() | [코드]() |
-- [ ] lv2. 기능 개발 | [문제]() | [코드]() |
-- [ ] lv2. 다리를 지나는 트럭 | [문제]() | [코드]() |
-- [ ] lv3. 순위 | [문제]() | [코드]() |
-- [ ] lv5. 방의 개수 | [문제]() | [코드]() |
-- [ ] lv3. 길 찾기 게임 | [문제]() | [코드]() |
-- [ ] lv3. 이중 우선순위 큐 | [문제]() | [코드]() |
-- [ ] lv3. 디스크 컨트롤러 | [문제]() | [코드]() |
-- [ ] lv3. 보석 쇼핑 | [문제]() | [코드]() |
-- [ ] lv3. 섬 연결하기 | [문제]() | [코드]() |
-- [ ] lv4. 호텔 방 배정 | [문제]() | [코드]() |
-- [ ] lv4. 가사 검색 | [문제]() | [코드]() |
+- ✅ lv2. `stack` 주식가격 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [코드](./ch11/_42584.java) |
+  - 유사한 문제 🟪 lv2. `stack` 뒤에 있는 큰 수 찾기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [코드](./ch11/_154539.java) |
+- ✅ lv2. `queue` 기능 개발 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [코드](./ch11/_42586.java) |
+- ✅ lv2. `queue` 다리를 지나는 트럭 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [코드](./ch11/_42583.java) |
+- ✅ lv3. `Floyd Warshall` 순위 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | [코드](./ch11/_49191.java) |
+- ❌ lv5. 방의 개수 | [문제]() | [코드]() |
+- ❌ lv3. 길 찾기 게임 | [문제]() | [코드]() |
+- ✅ lv3. `heap` 이중 우선순위 큐 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [코드](./ch11/_42628.java) |
+- ✅ lv3. `heap` 디스크 컨트롤러 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [코드]() |
+  - 유사한 문제 : pccp 모의고사 1회 - 4번 운영체제 
+- ⭐ lv3. 보석 쇼핑 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [코드](./ch11/_67258.java) |
+- ✅ lv3. `Kruskal` 섬 연결하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [코드]() |
+- ⭐ lv4. `Map` 호텔 방 배정 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | [코드](./ch11/_64063.java) |
+- ❌ lv4. 가사 검색 | [문제]() | [코드]() |
 
 ### 12장. 구현
 - [ ] lv2. 스킬트리 | [문제]() | [코드]() |
