@@ -82,7 +82,7 @@
 - ❌ lv4. 가사 검색 | [문제]() | [코드]() |
 
 ### 12장. 구현
-- [ ] lv2. 스킬트리 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [코드]() |
+- ✅ lv2. `문자열, 위상정렬` 스킬트리 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [코드1](./ch12/_49993.java) | [코드2](./ch12/_49993_1.java) |
 - [ ] lv1. 키패드 누르기 | [문제]() | [코드]() |
 - [ ] lv2. 타겟 넘버 | [문제]() | [코드]() |
 - [ ] lv3. 네트워크 | [문제]() | [코드]() |
@@ -104,6 +104,14 @@
 ### 그래프
 - [ ] lv2. 카카오 프렌즈 컬러링북 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1829) | [코드]()
 
-### [PCCP #1](../../pccp1)
+### [PCCP #1](../pccp1)
+- [ ] no1.
+- [ ] no2.
+- [ ] no3.
+- [ ] no4.
 
-### [PCCP #2](../../pccp2)
+### [PCCP #2](../pccp2)
+- [ ] no1.
+- [ ] no2.
+- [ ] no3.
+- [ ] no4.
