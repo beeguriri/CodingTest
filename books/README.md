@@ -62,7 +62,7 @@
 - ✅ lv3. 등굣길 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [코드](./ch10/_42898.java) |
 - ❌ lv4. 사칙연산 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1843) | [코드]() |
 - [ ] 🟪 백준에 계단 문제들 몇개 풀어보기
-- [ ] 🟪 lv2. 숫자 변환하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [코드]() | 
+- 🟪 lv2. 숫자 변환하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [코드](./ch10/_154538.java) | 
 
 ### 11장. 자주 등장하는 자료 구조
 - ✅ lv2. `stack` 올바른 괄호 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [코드](./ch11/_12909.java) |
@@ -81,7 +81,7 @@
 - ✅ lv3. `Kruskal` 섬 연결하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [코드]() |
 - ⭐ lv4. `Map` 호텔 방 배정 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | [코드](./ch11/_64063.java) |
 - ❌ lv4. 가사 검색 | [문제]() | [코드]() |
-- [ ] 🟪 lv2. 택배상자 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [코드]() |
+- 🟪 lv2. 택배상자 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [코드](./ch11/_131704.java) |
 
 ### 12장. 구현
 - ✅ lv2. `문자열, 위상정렬` 스킬트리 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [코드1](./ch12/_49993.java) | [코드2](./ch12/_49993_1.java) |
@@ -104,8 +104,8 @@
 - [ ] lv3. 사라지는 발판 | [문제]() | [코드]() |
 
 ### 그래프
-- [ ] 🟪 lv2. 카카오 프렌즈 컬러링북 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1829) | [코드]()
-- [ ] 🟪 lv2. 무인도 여행 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [코드]()
+- 🟪 lv2. 카카오 프렌즈 컬러링북 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1829) | [코드](./etc/_1829.java)
+- 🟪 lv2. 무인도 여행 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [코드](./etc/_154540.java)
 - [ ] 🟪 lv2. 방문 길이 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [코드]() 
 
 ### [PCCP #1](../pccp1)
