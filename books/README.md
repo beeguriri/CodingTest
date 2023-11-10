@@ -91,7 +91,7 @@
 - ✅ lv3. `dfs` 단어 변환 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [코드](./ch12/_43163.java) |
 - ✅ lv3. `bfs` 게임 맵 최단거리 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [코드](./ch12/_1844.java) |
 - ✅ lv1. `greedy` 체육복 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [코드](./ch12/_42862.java) |
-- ⭐ lv2. `greedy` 큰 수 만들기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [코드](./ch12/_42883.java) |
+- ⭐ lv2. `greedy` 큰 수 만들기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [코드1-문자열](./ch12/_42883.java) | [코드2-스택과큐](./ch12/_42883_1.java) |
 - ✅ lv3. `greedy` 단속카메라 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [코드](./ch12/_42884.java) |
 
 ### 13장. 도전: 카카오 2022 블라인드 테스트
@@ -106,7 +106,7 @@
 ### 그래프
 - 🟪 lv2. 카카오 프렌즈 컬러링북 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1829) | [코드](./etc/_1829.java)
 - 🟪 lv2. 무인도 여행 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [코드](./etc/_154540.java)
-- [ ] 🟪 lv2. 방문 길이 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [코드]() 
+- 🟪 lv2. 방문 길이 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [코드](./etc/_49994.java) 
 
 ### [PCCP #1](../pccp1)
 - [ ] no1.
