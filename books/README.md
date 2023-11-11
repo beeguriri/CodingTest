@@ -75,10 +75,10 @@
 - ❌ lv5. 방의 개수 | [문제]() | [코드]() |
 - ❌ lv3. 길 찾기 게임 | [문제]() | [코드]() |
 - ✅ lv3. `heap` 이중 우선순위 큐 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [코드](./ch11/_42628.java) |
-- ✅ lv3. `heap` 디스크 컨트롤러 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [코드]() |
+- ✅ lv3. `heap` 디스크 컨트롤러 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [코드](./ch11/_42627.java) |
   - 유사한 문제 : pccp 모의고사 1회 - 4번 운영체제 
 - ⭐ lv3. 보석 쇼핑 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [코드](./ch11/_67258.java) |
-- ✅ lv3. `Kruskal` 섬 연결하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [코드]() |
+- ✅ lv3. `Kruskal` 섬 연결하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [코드](./ch11/_42861.java) |
 - ⭐ lv4. `Map` 호텔 방 배정 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | [코드](./ch11/_64063.java) |
 - ❌ lv4. 가사 검색 | [문제]() | [코드]() |
 - 🟪 lv2. 택배상자 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [코드](./ch11/_131704.java) |
