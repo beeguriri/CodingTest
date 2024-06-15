@@ -82,6 +82,8 @@
 | ✅  | P_78 | [회의실 배정](https://school.programmers.co.kr/learn/courses/30/lessons/181188)         | 그리디                |                                                                                                                                                                         |
 | ✅  | P_79 | [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)         | 재귀, 백트래킹           |                                                                                                                                                                         |
 | ✅  | P_80 | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)                | 그래프, BFS           |                                                                                                                                                                         |
+| ✅  | P_80 | [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)                | 구현         |                                                                                                                                                                         |
+
 
 
 
